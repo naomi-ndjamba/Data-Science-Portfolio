@@ -10,4 +10,3 @@ This repository will contain academic and personal projects in:
 - Databases and SQL
 - Data Analysis
 - Object Oriented Programming
-- Data Science
